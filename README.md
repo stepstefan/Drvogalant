@@ -1,4 +1,6 @@
 # Drvogalant
 
-Don't bother reading through code, it's a bloody mess.
-Requires MikTex 2.9, look for installation hard-coded path somewhere in code.
+Management application for local business specializing in door manufacturing.
+
+Requires MikTex 2.9.
+Installation path for MikTex is hardcoded.
